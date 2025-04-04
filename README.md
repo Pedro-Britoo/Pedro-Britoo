@@ -15,12 +15,11 @@ Jogos Digitais (Cursando - manhã)
 Redes de Computadores (Cursando - tarde)
 
 Desenvolvimento Web: HTML, CSS, JavaScript
-Linguagens de Programação: C#
+Linguagens de Programação: C#,Javascript,PY,Typescript.
 Cloud Computing: AWS (Amador)
-Servidores Web: NGINX (Aprendendo)
 Game Development: Unity (Experiência)
 Modelagem 3D: Maya (Amador)
 Design: Noções básicas
-Aprendendo: Docker, Arduino
+Aprendendo: Docker, Arduino, Servidores Web: NGINX e API-deploy(Aprendendo)
 
 
