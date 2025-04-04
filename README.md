@@ -23,67 +23,67 @@ Design: Noções básicas
 SO: Debian,Ubuntu,Windows
 Aprendendo: Docker, Arduino, Servidores Web: NGINX e API-deploy(Aprendendo)
 
-T## 🚀 Tecnologias que uso
+
+ ## 🚀 Tecnologias que uso
 
 <div align="center">
-  <style>
-    .tech-box {
-      background: linear-gradient(135deg, #1e1e1e, #2b2b2b);
-      border-radius: 20px;
-      padding: 20px;
-      display: inline-block;
-      box-shadow: 0px 0px 15px rgba(255, 255, 255, 0.1);
-      animation: fadeIn 1.2s ease-in-out;
-    }
-    
-    @keyframes fadeIn {
-      from { opacity: 0; transform: translateY(-10px); }
-      to { opacity: 1; transform: translateY(0); }
-    }
+  <table>
+    <tr>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px"/><br>HTML5
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px"/><br>CSS3
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px"/><br>JavaScript
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50px"/><br>TypeScript
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px"/><br>Python
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50px"/><br>C#
+      </td>
+    </tr>
+  </table>
 
-    .tech-icons {
-      display: flex;
-      flex-wrap: wrap;
-      justify-content: center;
-      gap: 15px;
-    }
+  <table>
+    <tr>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="70px"/><br>AWS
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="50px"/><br>NGINX
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50px"/><br>Bash
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="50px"/><br>Debian
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="50px"/><br>Ubuntu
+      </td>
+    </tr>
+  </table>
 
-    .tech-icons img {
-      width: 50px;
-      transition: transform 0.3s ease-in-out, filter 0.3s ease-in-out;
-      filter: grayscale(50%);
-    }
-
-    .tech-icons img:hover {
-      transform: scale(1.1);
-      filter: grayscale(0%);
-    }
-  </style>
-
-  <div class="tech-box">
-    <div class="tech-icons">
-      <!-- Linguagens -->
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#"/>
-      
-      <!-- DevOps & Infraestrutura -->
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="70px"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="NGINX"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash"/>
-
-      <!-- Sistemas Operacionais -->
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" alt="Debian"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu"/>
-
-      <!-- Game Dev & Design -->
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity"/>
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maya/maya-original.svg" alt="Maya"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Vegas_Pro_15.0.png" alt="Vegas Pro" width="50px"/>
-      <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Adobe Photoshop"/>
-    </div>
-  </div>
+  <table>
+    <tr>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="50px"/><br>Unity
+      </td>
+      <td align="center" width="100">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maya/maya-original.svg" width="50px"/><br>Maya
+      </td>
+      <td align="center" width="100">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Vegas_Pro_15.0.png" width="50px"/><br>Vegas Pro
+      </td>
+      <td align="center" width="100">
+        <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" width="50px"/><br>Photoshop
+      </td>
+    </tr>
+  </table>
 </div>
