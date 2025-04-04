@@ -16,13 +16,11 @@ Redes de Computadores (Cursando - tarde)
 
 Desenvolvimento Web: HTML, CSS, JavaScript
 Linguagens de Programação: C#
-Cloud Computing: AWS (Experiência)
-Infraestrutura como Código: Terraform (Experiência)
-Servidores Web: NGINX (Experiência)
+Cloud Computing: AWS (Amador)
+Servidores Web: NGINX (Aprendendo)
 Game Development: Unity (Experiência)
-Modelagem 3D: Maya (Experiência)
+Modelagem 3D: Maya (Amador)
 Design: Noções básicas
 Aprendendo: Docker, Arduino
-Experiência:
 
 
