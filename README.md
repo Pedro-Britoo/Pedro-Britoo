@@ -8,7 +8,7 @@ Contato: (11954641995)
 
 Sobre Mim:
 
-Estudante de 16 anos com grande interesse em tecnologia, cursando Jogos Digitais pela manhã e Redes de Computadores à tarde. Possuo experiência em desenvolvimento de páginas web e conhecimentos práticos em ferramentas como AWS, Terraform e NGINX. Tenho familiaridade com diversas linguagens de programação, incluindo C#, JavaScript, CSS e HTML. Além disso, possuo experiência com as plataformas Unity e Maya, e estou desenvolvendo minhas habilidades em design. Atualmente, estou aprendendo sobre Docker e Arduino para expandir ainda mais meus conhecimentos.
+Estudante de 16 anos com grande interesse em tecnologia, cursando Jogos Digitais pela tarde e Redes de Computadores de manhã. Possuo experiência em desenvolvimento de páginas web e conhecimentos práticos em ferramentas como AWS, Terraform e NGINX. Tenho familiaridade com diversas linguagens de programação, incluindo C#, JavaScript, CSS e HTML. Além disso, possuo experiência com as plataformas Unity e Maya, e estou desenvolvendo minhas habilidades em design. Atualmente, estou aprendendo sobre Docker e Arduino para expandir ainda mais meus conhecimentos.
 
 Cursos:
 Jogos Digitais (Cursando - manhã)
