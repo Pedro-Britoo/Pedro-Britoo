@@ -1,1 +1,2 @@
-https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Britoo&layout=compact&langs_count=6&theme=dark
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&langs_count=6&theme=dark" />
+
