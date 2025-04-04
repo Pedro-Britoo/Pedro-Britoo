@@ -23,37 +23,67 @@ Design: Noções básicas
 SO: Debian,Ubuntu,Windows
 Aprendendo: Docker, Arduino, Servidores Web: NGINX e API-deploy(Aprendendo)
 
-TECNOLOGIAS:
-
-## 🚀 Tecnologias que uso
+T## 🚀 Tecnologias que uso
 
 <div align="center">
-  
-  <!-- Linguagens -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50px" alt="HTML5" style="margin: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50px" alt="CSS3" style="margin: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50px" alt="JavaScript" style="margin: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="50px" alt="TypeScript" style="margin: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50px" alt="Python" style="margin: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="50px" alt="C#" style="margin: 10px;"/>
-  
-  <br/><br/>
-  
-  <!-- DevOps & Infraestrutura -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="80px" alt="AWS" style="margin: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="50px" alt="NGINX" style="margin: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50px" alt="Bash" style="margin: 10px;"/>
-  
-  <br/><br/>
-  
-  <!-- Sistemas Operacionais -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="50px" alt="Debian" style="margin: 10px;"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" width="50px" alt="Ubuntu" style="margin: 10px;"/>
-  
-  <br/><br/>
-  
-  <!-- Game Dev -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="50px" alt="Unity" style="margin: 10px;"/>
-  
-</div>
+  <style>
+    .tech-box {
+      background: linear-gradient(135deg, #1e1e1e, #2b2b2b);
+      border-radius: 20px;
+      padding: 20px;
+      display: inline-block;
+      box-shadow: 0px 0px 15px rgba(255, 255, 255, 0.1);
+      animation: fadeIn 1.2s ease-in-out;
+    }
+    
+    @keyframes fadeIn {
+      from { opacity: 0; transform: translateY(-10px); }
+      to { opacity: 1; transform: translateY(0); }
+    }
 
+    .tech-icons {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 15px;
+    }
+
+    .tech-icons img {
+      width: 50px;
+      transition: transform 0.3s ease-in-out, filter 0.3s ease-in-out;
+      filter: grayscale(50%);
+    }
+
+    .tech-icons img:hover {
+      transform: scale(1.1);
+      filter: grayscale(0%);
+    }
+  </style>
+
+  <div class="tech-box">
+    <div class="tech-icons">
+      <!-- Linguagens -->
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#"/>
+      
+      <!-- DevOps & Infraestrutura -->
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="70px"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" alt="NGINX"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash"/>
+
+      <!-- Sistemas Operacionais -->
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" alt="Debian"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ubuntu/ubuntu-plain.svg" alt="Ubuntu"/>
+
+      <!-- Game Dev & Design -->
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" alt="Unity"/>
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maya/maya-original.svg" alt="Maya"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Vegas_Pro_15.0.png" alt="Vegas Pro" width="50px"/>
+      <img src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg" alt="Adobe Photoshop"/>
+    </div>
+  </div>
+</div>
