@@ -11,7 +11,7 @@ Sobre Mim:
 Estudante de 16 anos com grande interesse em tecnologia, cursando Jogos Digitais pela tarde e Redes de Computadores de manhã. Possuo experiência em desenvolvimento de páginas web e conhecimentos práticos em ferramentas como AWS. Tenho familiaridade com diversas linguagens de programação, incluindo C#, JavaScript, CSS e HTML. Além disso, possuo experiência com as plataformas Unity e Maya, Possuo experiencia com bash linux, entre outros serviços relacionados ao mesmo. Atualmente, estou aprendendo sobre Docker e Arduino para expandir ainda mais meus conhecimentos.
 
 Cursos:
-Jogos Digitais (Cursando - manhã)
+DEVJ (Cursando - manhã)
 Redes (Cursando - tarde)
 
 
