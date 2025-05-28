@@ -36,18 +36,18 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight" alt="stats"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Pedro-britoo&show_icons=true&theme=tokyonight" alt="stats"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO&theme=tokyonight" alt="streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Pedro-britoo&theme=tokyonight" alt="streak"/>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight" alt="langs"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-britoo&layout=compact&theme=tokyonight" alt="langs"/>
 </p>
 
 ---
 
 ### 📈 Visitantes
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=Profile+Views&color=blueviolet&style=flat" alt="visits"/>
+  <img src="https://komarev.com/ghpvc/?username=Pedro-britoo&label=Profile+Views&color=blueviolet&style=flat" alt="visits"/>
 </p>
