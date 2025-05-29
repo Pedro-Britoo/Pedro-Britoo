@@ -31,7 +31,7 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="Apache"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS"/>
 <img src="https://i.imgur.com/1I4U6BO.png" height="40" alt="Vegas Pro Icon"/>
-<img src="https://img.icons8.com/?size=100&id=XEnbmdky0kzu&format=png&color=000000" height="40" alt="Cisco Packet Tracer Icon"/>
+<img src="https://img.icons8.com/ios-filled/100/000000/cisco-packet-tracer.png" height="40" alt="Cisco Packet Tracer Icon"/>
 
 
 
