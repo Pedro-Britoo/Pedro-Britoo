@@ -6,7 +6,7 @@
 
 ---
 
-### 🚀 Linguagens que conheço
+### EXPERIENCIA-
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" height="40" alt="Arduino"/>
@@ -20,7 +20,7 @@
 
 ---
 
-### 🛠️ Tecnologias que uso
+### 🛠️ USEFULL TEC
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" height="40" alt="Unity"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="Photoshop"/>
@@ -34,13 +34,13 @@
 
 ---
 
-### 📊 GitHub Stats
+### Metrics
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Pedro-Britoo&show_icons=true&theme=radical" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Britoo&layout=compact&theme=radical" height="150"/>
 </p>
 
-### 🧠 "Tecnologia é melhor quando conecta pessoas."
+###  "Helping people with TEC."
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%"/>
