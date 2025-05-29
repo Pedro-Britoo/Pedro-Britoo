@@ -30,8 +30,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="NGINX"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="Apache"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS"/>
-<img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/caminho/7a8da7ff-25fb-471f-a3b4-a260c8b949fd.png" height="40" alt="Vegas Pro Icon"/>
-<img src="https://icon-icons.com/icons2/3053/PNG/512/cisco_packet_tracer_macos_bigsur_icon_190240.png" height="40" alt="Cisco Packet Tracer Icon"/>
+<img src="https://i.imgur.com/1I4U6BO.png" height="40" alt="Vegas Pro Icon"/>
+<img src="https://i.imgur.com/NHv9F6G.png" height="40" alt="Cisco Packet Tracer Icon"/>
+
 
 
 
