@@ -30,7 +30,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" height="40" alt="NGINX"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="Apache"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS"/>
-  ![Vegas Pro](https://upload.wikimedia.org/wikipedia/commons/2/26/Vegas_Pro_18_icon.png)
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Vegas_Pro_15.0_icon.png" width="64" height="64" alt="Vegas Pro Icon"/>
+
 
 </p>
 
