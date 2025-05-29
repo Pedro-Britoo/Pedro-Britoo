@@ -31,7 +31,6 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" height="40" alt="Apache"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/2/2e/Vegas_Pro_15.0_icon.png" width="64" height="64" alt="Vegas Pro Icon"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/6f/Vegas_Pro_21_logo.svg" width="100" alt="Vegas Pro Logo">
 
 
 
