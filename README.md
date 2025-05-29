@@ -32,6 +32,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" height="40" alt="AWS"/>
 <img src="https://i.imgur.com/1I4U6BO.png" height="40" alt="Vegas Pro Icon"/>
 <img src="https://img.icons8.com/ios-filled/100/00ff00/cisco-packet-tracer.png" height="40" style="background-color:white; padding:4px; border-radius:6px;" alt="Cisco Packet Tracer Icon"/>
+<img src="https://raw.githubusercontent.com/github/explore/main/topics/maya/maya.png" alt="Maya" width="64" height="64" />
+
 
 
 
