@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Brito 👋</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=00FFD9&center=true&vCenter=true&width=435&lines=T%C3%A9cnico+em+Redes+e+DEVJ;Apaixonado+por+tecnologia+e+automação" alt="Typing SVG" />
+  <img src="[<img src="https://cdn.credly.com/.../networking-basics-badge.png" width="110" alt="Networking Basics Badge"/>](https://cdn.credly.com/.../networking-basics-badge.png" width="110" alt="Networking Basics Badge)" />
 </p>
 
 <p align="center">
