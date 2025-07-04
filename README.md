@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou o Brito 👋</h1>
 
 <p align="center">
-  <img src="[<img src="https://cdn.credly.com/.../networking-basics-badge.png" width="110" alt="Networking Basics Badge"/>](https://cdn.credly.com/.../networking-basics-badge.png" width="110" alt="Networking Basics Badge)" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&pause=1000&color=00FFD9&center=true&vCenter=true&width=435&lines=T%C3%A9cnico+em+Redes+e+DEVJ;Apaixonado+por+tecnologia+e+automação" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -14,7 +14,7 @@
 
 | Certificação | Emissor | Verificação |
 | :---: | :---: | :---: |
-| **Networking Basics** <br><br> <img src="https://images.credly.com/size/120x120/assets/68875354-4927-4b39-9523-77283a33c7b2/Networking_Basics.png" width="110" alt="Networking Basics Badge"/> | **Cisco Networking Academy** | <a href="https://www.credly.com/badges/f7aad901-21d3-4f72-9718-1ef594a4fd31/public_url"><strong>Ver Credencial</strong></a> |
+| **Networking Basics** <br><br> <img src="https://images.credly.com/size/220x220/assets/68875354-4927-4b39-9523-77283a33c7b2/Networking_Basics.png" width="110" alt="Networking Basics Badge"/> | **Cisco Networking Academy** | <a href="https://www.credly.com/badges/f7aad901-21d3-4f72-9718-1ef594a4fd31/public_url"><strong>Ver Credencial</strong></a> |
 
 ---
 
@@ -24,37 +24,37 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="#linguagens">
+      <a href="https://www.python.org" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48" height="48" alt="Python" />
       </a>
       <br>Python
     </td>
     <td align="center" width="96">
-      <a href="#linguagens">
+      <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" />
       </a>
       <br>C#
     </td>
     <td align="center" width="96">
-      <a href="#linguagens">
+      <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
       </a>
       <br>JavaScript
     </td>
     <td align="center" width="96">
-      <a href="#linguagens">
+      <a href="https://www.typescriptlang.org/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
       </a>
       <br>TypeScript
     </td>
      <td align="center" width="96">
-      <a href="#linguagens">
+      <a href="https://www.w3.org/html/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
       </a>
       <br>HTML5
     </td>
     <td align="center" width="96">
-      <a href="#linguagens">
+      <a href="https://www.w3schools.com/css/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
       </a>
       <br>CSS3
@@ -66,37 +66,37 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="#infra">
+      <a href="https://www.linux.org/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" />
       </a>
       <br>Linux
     </td>
     <td align="center" width="96">
-      <a href="#infra">
+      <a href="https://www.gnu.org/software/bash/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="48" height="48" alt="Bash" />
       </a>
       <br>Bash
     </td>
     <td align="center" width="96">
-      <a href="#infra">
+      <a href="https://aws.amazon.com" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="48" height="48" alt="AWS" />
       </a>
       <br>AWS
     </td>
     <td align="center" width="96">
-      <a href="#infra">
+      <a href="https://www.nginx.com" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nginx/nginx-original.svg" width="48" height="48" alt="NGINX" />
       </a>
       <br>Nginx
     </td>
     <td align="center" width="96">
-      <a href="#infra">
+      <a href="https://httpd.apache.org/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apache/apache-original.svg" width="48" height="48" alt="Apache" />
       </a>
       <br>Apache
     </td>
     <td align="center" width="96">
-      <a href="#infra">
+      <a href="https://www.netacad.com/courses/packet-tracer" target="_blank">
         <img src="https://img.icons8.com/ios-filled/100/00ff00/cisco-packet-tracer.png" height="48" style="background-color:white; padding:4px; border-radius:6px;" alt="Packet Tracer Icon"/>
       </a>
       <br>Packet Tracer
@@ -108,37 +108,37 @@
 <table>
   <tr>
     <td align="center" width="96">
-      <a href="#software">
+      <a href="https://www.arduino.cc/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="48" height="48" alt="Arduino" />
       </a>
       <br>Arduino
     </td>
     <td align="center" width="96">
-      <a href="#software">
+      <a href="https://unity.com/" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unity/unity-original.svg" width="48" height="48" alt="Unity" />
       </a>
       <br>Unity
     </td>
     <td align="center" width="96">
-      <a href="#software">
+      <a href="https://www.photoshop.com" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" width="48" height="48" alt="Photoshop" />
       </a>
       <br>Photoshop
     </td>
     <td align="center" width="96">
-      <a href="#software">
+      <a href="https://www.adobe.com/products/aftereffects.html" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" width="48" height="48" alt="After Effects" />
       </a>
       <br>After Effects
     </td>
     <td align="center" width="96">
-      <a href="#software">
+      <a href="https://www.blender.org" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/blender/blender-original.svg" width="48" height="48" alt="Blender" />
       </a>
       <br>Blender
     </td>
      <td align="center" width="96">
-      <a href="#software">
+      <a href="https://www.autodesk.com/products/maya/overview" target="_blank">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/maya/maya-original.svg" width="48" height="48" alt="Maya" />
       </a>
       <br>Autodesk Maya
