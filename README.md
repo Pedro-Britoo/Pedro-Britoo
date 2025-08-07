@@ -8,12 +8,12 @@
 Sou um técnico em Redes e Desenvolvedor focado em automação e soluções tecnológicas, sempre buscando aprender e ajudar outras pessoas com tecnologia.
 </p>
 
-## 🏅 Certificações
+<h2 align="left">🏅 Certificações</h2>
 
 <table>
   <tr>
-    <td width="140">
-      <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPO/main/assets/ccna-badge.png" width="110" style="border: 2px solid #00FFD9; border-radius: 10px; padding: 4px;" alt="CCNA Badge">
+    <td width="120">
+      <img src="https://i.postimg.cc/2y0ppRwB/ccna-introduction-to-networks.png" width="100" style="border: 2px solid #00FFD9; border-radius: 10px; padding: 4px;" alt="CCNA Badge">
     </td>
     <td>
       <strong>CCNA: Introduction to Networks</strong><br>
@@ -22,10 +22,12 @@ Sou um técnico em Redes e Desenvolvedor focado em automação e soluções tecn
       </a>
     </td>
   </tr>
+
   <tr><td colspan="2"><br></td></tr>
+
   <tr>
-    <td width="140">
-      <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPO/main/assets/ccna-badge.png" width="110" style="border: 2px solid #00FFD9; border-radius: 10px; padding: 4px;" alt="Networking Basics Badge">
+    <td width="120">
+      <img src="https://i.postimg.cc/W1FcMhv9/networking-basics.png" width="100" style="border: 2px solid #00FFD9; border-radius: 10px; padding: 4px;" alt="Networking Basics Badge">
     </td>
     <td>
       <strong>Networking Basics</strong><br>
