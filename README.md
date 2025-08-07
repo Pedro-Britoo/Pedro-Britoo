@@ -8,10 +8,29 @@
 Sou um técnico em Redes e Desenvolvedor focado em automação e soluções tecnológicas, sempre buscando aprender e ajudar outras pessoas com tecnologia.
 </p>
 
-🏅 Certificações
-Certificação	Emissor	Verificação
-CCNA: Introduction to Networks <br><br> <img src="https://images.credly.com/size/220x220/assets/a27c1b33-e5f3-4328-8686-b48154563a69/image.png" width="110" alt="CCNA Badge"/>	Cisco Networking Academy	<a href="https://www.credly.com/badges/f2a31556-1876-4d10-8662-8dea6c8de7ae/public_url"><strong>Ver Credencial</strong></a>
-Networking Basics <br><br> <img src="https://images.credly.com/size/220x220/assets/68875354-4927-4b39-9523-77283a33c7b2/image.png" width="110" alt="Networking Basics Badge"/>	Cisco Networking Academy	<a href="https://www.credly.com/badges/f7aad901-21d3-4f72-9718-1ef594a4fd31/public_url"><strong>Ver Credencial</strong></a>
+<h2 align="center">🏅 Certificações</h2>
+
+<p align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="https://images.credly.com/size/220x220/assets/a27c1b33-e5f3-4328-8686-b48154563a69/image.png" width="110" alt="CCNA Badge" style="border: 2px solid #00FFD9; border-radius: 12px; padding: 4px;"/>
+        <br><strong>CCNA: Introduction to Networks</strong><br>
+        <a href="https://www.credly.com/badges/f2a31556-1876-4d10-8662-8dea6c8de7ae/public_url" target="_blank">
+          <img src="https://img.shields.io/badge/Ver%20Credencial-00FFD9?style=for-the-badge&logo=vercel&logoColor=black&labelColor=black&color=00FFD9">
+        </a>
+      </td>
+      <td align="center">
+        <img src="https://images.credly.com/size/220x220/assets/68875354-4927-4b39-9523-77283a33c7b2/image.png" width="110" alt="Networking Basics Badge" style="border: 2px solid #00FFD9; border-radius: 12px; padding: 4px;"/>
+        <br><strong>Networking Basics</strong><br>
+        <a href="https://www.credly.com/badges/f7aad901-21d3-4f72-9718-1ef594a4fd31/public_url" target="_blank">
+          <img src="https://img.shields.io/badge/Ver%20Credencial-00FFD9?style=for-the-badge&logo=vercel&logoColor=black&labelColor=black&color=00FFD9">
+        </a>
+      </td>
+    </tr>
+  </table>
+</p>
+
 
 Exportar para as Planilhas
 🛠️ Habilidades & Ferramentas
