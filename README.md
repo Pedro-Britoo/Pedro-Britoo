@@ -8,28 +8,33 @@
 Sou um técnico em Redes e Desenvolvedor focado em automação e soluções tecnológicas, sempre buscando aprender e ajudar outras pessoas com tecnologia.
 </p>
 
-<h2 align="center">🏅 Certificações</h2>
+## 🏅 Certificações
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Pedro-Britoo/Pedro-Britoo/main/assets/cisco-badges.png" width="140" style="border:2px solid #00FFD9; border-radius:12px; padding:4px;" alt="Cisco Badges"/>
-</p>
-
-<p align="center">
-  <strong>CCNA: Introduction to Networks</strong><br>
-  <a href="https://www.credly.com/badges/f2a31556-1876-4d10-8662-8dea6c8de7ae/public_url" target="_blank">
-    <img src="https://img.shields.io/badge/Ver%20Credencial-00FFD9?style=for-the-badge&logo=vercel&logoColor=black&labelColor=black&color=00FFD9">
-  </a>
-</p>
-
-<br>
-
-<p align="center">
-  <strong>Networking Basics</strong><br>
-  <a href="https://www.credly.com/badges/f7aad901-21d3-4f72-9718-1ef594a4fd31/public_url" target="_blank">
-    <img src="https://img.shields.io/badge/Ver%20Credencial-00FFD9?style=for-the-badge&logo=vercel&logoColor=black&labelColor=black&color=00FFD9">
-  </a>
-</p>
-
+<table>
+  <tr>
+    <td width="140">
+      <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPO/main/assets/ccna-badge.png" width="110" style="border: 2px solid #00FFD9; border-radius: 10px; padding: 4px;" alt="CCNA Badge">
+    </td>
+    <td>
+      <strong>CCNA: Introduction to Networks</strong><br>
+      <a href="https://www.credly.com/badges/f2a31556-1876-4d10-8662-8dea6c8de7ae/public_url" target="_blank">
+        <img src="https://img.shields.io/badge/Ver%20Credencial-00FFD9?style=for-the-badge&logo=vercel&logoColor=black&labelColor=black&color=00FFD9">
+      </a>
+    </td>
+  </tr>
+  <tr><td colspan="2"><br></td></tr>
+  <tr>
+    <td width="140">
+      <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPO/main/assets/ccna-badge.png" width="110" style="border: 2px solid #00FFD9; border-radius: 10px; padding: 4px;" alt="Networking Basics Badge">
+    </td>
+    <td>
+      <strong>Networking Basics</strong><br>
+      <a href="https://www.credly.com/badges/f7aad901-21d3-4f72-9718-1ef594a4fd31/public_url" target="_blank">
+        <img src="https://img.shields.io/badge/Ver%20Credencial-00FFD9?style=for-the-badge&logo=vercel&logoColor=black&labelColor=black&color=00FFD9">
+      </a>
+    </td>
+  </tr>
+</table>
 
 Exportar para as Planilhas
 🛠️ Habilidades & Ferramentas
