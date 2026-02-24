@@ -47,16 +47,29 @@
 
   <tr><td colspan="2"><br></td></tr>
 
-  <!-- FIAP Formação -->
+  <!-- FIAP -->
   <tr>
-    <td width="120">
-      <img src="https://img.icons8.com/color/100/fiap.png" width="80" style="border-radius: 10px;" alt="FIAP">
+    <td width="120" align="center">
+      <img src="https://postech.fiap.com.br/favicon.ico" width="60" alt="FIAP">
     </td>
     <td>
-      <strong>FIAP - Formação Acadêmica</strong><br>
+      <strong>FIAP - Pós-Graduação</strong><br>
       🎓 Engenharia de Software<br>
       🌐 Redes e Computadores<br>
       🎮 Jogos Digitais
+    </td>
+  </tr>
+
+  <tr><td colspan="2"><br></td></tr>
+
+  <!-- SENAI -->
+  <tr>
+    <td width="120" align="center">
+      <img src="https://www.sp.senai.br/favicon.ico" width="60" alt="SENAI">
+    </td>
+    <td>
+      <strong>SENAI</strong><br>
+      Técnico em Redes e Computadores
     </td>
   </tr>
 
