@@ -55,8 +55,7 @@
     <td>
       <strong>FIAP - Pós-Graduação</strong><br>
       🎓 Engenharia de Software<br>
-      🌐 Redes e Computadores<br>
-      🎮 Jogos Digitais
+      
     </td>
   </tr>
 
@@ -69,7 +68,8 @@
     </td>
     <td>
       <strong>SENAI</strong><br>
-      Técnico em Redes e Computadores
+      🌐 Tec. Redes e Computadores<br>
+      🎮 Tec. Jogos Digitais
     </td>
   </tr>
 
