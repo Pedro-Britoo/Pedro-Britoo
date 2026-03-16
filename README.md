@@ -1,3 +1,18 @@
+<br>
+
+<h2 align="left">💻 Linguagens Mais Usadas</h2>
+
+<p align="left">
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Britoo&layout=compact&theme=tokyonight&hide_border=true&title_color=00FFD9&text_color=FFFFFF&bg_color=121212"
+    height="180"
+  />
+</p>
+
+
+
+
+
 <h2 align="left">🏅 Certificações & Formação</h2>
 
 <table>
