@@ -4,12 +4,10 @@
 
 <p align="left">
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Britoo&layout=compact&theme=tokyonight&hide_border=true&title_color=00FFD9&text_color=FFFFFF&bg_color=121212"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pedro-Britoo&layout=compact&langs_count=10&hide=ShaderLab,HLSL&theme=tokyonight&hide_border=true&title_color=00FFD9&text_color=FFFFFF&bg_color=121212"
     height="180"
   />
 </p>
-
-
 
 
 
